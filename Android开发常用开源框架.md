@@ -19,7 +19,7 @@
 
 # TextView
 ## TextDrawable
-<table border="0">
+<table>
 <tr>
 <td><img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen1-material.png" width="300"/></td>
 <td><img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png" width="300"/></td>
@@ -29,13 +29,13 @@
 
 ## ExpandableTextView
 
-![](https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true)
+<img src="https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true" width="400">
 
 ## [AlignTextView](https://github.com/androiddevelop/AlignTextView/tree/master/align-text-view/src/main/java/me/codeboy/android/aligntextview)
 
 字体对齐的textview
 
-![AlignTextView](https://github.com/androiddevelop/AlignTextView/raw/master/screenshot-small.png)
+<img src="https://github.com/androiddevelop/AlignTextView/raw/master/screenshot-small.png" width="400">
 
 ## [android-autofittextview](https://github.com/grantland/android-autofittextview)
 
