@@ -20,7 +20,9 @@
 # TextView
 ## TextDrawable
 
-![TextDrawable](https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen1-material.png)![TextDrawable](https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png)![TextDrawable](https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen7.png)
+<img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen1-material.png" width="300"/>
+<img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png" width="300"/>
+<img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen7.png" width="300"/>
 
 ## ExpandableTextView
 
