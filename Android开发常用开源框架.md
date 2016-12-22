@@ -20,11 +20,10 @@
 # TextView
 ## TextDrawable
 <table border="0">
-<tr>
+<tr border="0">
 <td><img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen1-material.png" width="300"/></td>
 <td><img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png" width="300"/></td>
-<img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen7.png" width="300"/>
-<td></td>
+<td><img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen7.png" width="300"/></td>
 </tr>
 </table>
 
