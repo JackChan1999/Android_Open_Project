@@ -19,7 +19,7 @@
 
 # TextView
 ## TextDrawable
-<table border="0" bordercolor="blue" cellspacing="0">
+<table border="3" bordercolor="red" cellspacing="0">
 <tr>
 <td><img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen1-material.png" width="300"/></td>
 <td><img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png" width="300"/></td>
