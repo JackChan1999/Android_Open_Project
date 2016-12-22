@@ -139,14 +139,14 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 |[RxLifecycle](https://github.com/trello/RxLifecycle)|Lifecycle handling APIs for Android apps using RxJava|
 
 
-##**12、Log框架**
+##**Log框架**
 
 | 框架名称                                     | 功能描述                 |
 |:---------------------------------------- |:-------------------- |
 | [Logger](https://github.com/orhanobut/logger) | 简单，漂亮，强大的Android日志工具 |
 | [Hugo](https://github.com/JakeWharton/hugo) | 在调试版本上注解的触发方法进行日志记录  |
 | [Timber](https://github.com/JakeWharton/timber) | 一个小的，可扩展的日志工具        |
-##**13、测试框架**
+##**测试框架**
 
 | 框架名称                                     | 功能描述                 |
 |:---------------------------------------- |:-------------------- |
@@ -156,12 +156,12 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 <br>
 Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso等
 
-##**14、调试框架**
+##**调试框架**
 
 | 框架名称                                     | 功能描述                                 |
 |:---------------------------------------- |:------------------------------------ |
 | [Stetho](https://github.com/facebook/stetho) | 调试Android应用的桥梁，使得可以利用Chrome开发者工具进行调试 |
-##**15、性能优化**
+##**性能优化**
 
 | 框架名称                                     | 功能描述            |
 |:---------------------------------------- |:--------------- |
@@ -169,14 +169,14 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 |[BlockCanary](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/?utm_source=tuicool&utm_medium=referral)|轻松找出Android App界面卡顿元凶|
 | [ACRA](https://github.com/ACRA/acra)     | Android应用程序崩溃报告 |
 
-##**16、热修复**
+##**热修复**
 | 框架名称                                     | 功能描述         |
 |:---------------------------------------- |:------------ |
 | [tinker](https://github.com/Tencent/tinker) | 腾讯开源的一个热修复框架 |
 | [AndFix](https://github.com/alibaba/AndFix) | alibaba热修复框架 |
 | [dexposed](https://github.com/alibaba/dexposed) | alibaba热修复框架 |
 
-##**17、二维码**
+##**二维码**
 | 框架名称                                     | 功能描述                                     |
 |:---------------------------------------- |:---------------------------------------- |
 | [Zxing](https://github.com/zxing/zxing)  | 一个二维码开源框架                                |
@@ -185,7 +185,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded/tree/master/zxing-android-embedded/src/com/journeyapps/barcodescanner) | 使用的App有：春雨医生，芒果TV                        |
 
 
-##**18、多媒体**
+##**多媒体**
 | 框架名称                                     | 功能描述                             |
 |:---------------------------------------- |:-------------------------------- |
 | [ijkplayer](https://github.com/Bilibili/ijkplayer) | Bilibili开源的视频播放器                 |
