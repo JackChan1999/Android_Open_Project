@@ -194,3 +194,107 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 一个基于C语言的多媒体开源框架                  |
 | 百度媒体云                                    | 基于百度视频处理、人脸识别、语音等技术媒体相关的整体解决方案   |
 | [ExoPlayer](https://github.com/google/ExoPlayer) | Google开源的视频播放器                   |
+
+# Android开源项目
+
+# 阿里巴巴
+|项目名称|功能描述|
+|:---|:---|
+|[freeline](https://github.com/alibaba/freeline)|Freeline 是 Android 平台上的秒级编译方案，Instant Run 的替代品，也可以从 Freeline 官方主页来获取更多的信息。Freeline 由蚂蚁聚宝 Android 团队开发，它可以充分利用缓存文件，在几秒钟内迅速地对代码的改动进行编译并部署到设备上，有效地减少了日常开发中的大量重新编译与安装的耗时。Freeline能够为Android开发者节省很多喝杯咖啡的时间|
+|[weex](https://github.com/alibaba/weex)|A framework for building Mobile cross-platform UI|
+|[fastjson](https://github.com/alibaba/fastjson)|A fast JSON parser/generator for Java|
+|[Dubbo](https://github.com/alibaba/dubbo)|Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities|
+|[AndFix](https://github.com/alibaba/AndFix)|AndFix is a library that offer hot-fix for Android App.|
+|[dexposed](https://github.com/alibaba/dexposed)|dexposed enable 'god' mode for single android application.|
+
+#小米开源项目
+|项目名称|功能描述|
+|:---|:---|
+| [Notes](https://github.com/MiCode/Notes)|小米便签社区开源版|
+|[FileExplorer](https://github.com/MiCode/FileExplorer)|MIUI文件管理器社区开源版|
+|[SoundRecorder](https://github.com/MiCode/SoundRecorder)|MIUI录音机社区开源版|
+
+#Google开源项目
+|项目名称|功能描述|
+|:---|:---|
+|[GCM](https://github.com/google/gcm)|Google Cloud Messaging 消息推送|
+|[ iosched：](https://github.com/google/iosched)|Google I/O Android App|
+|[android-topeka](https://github.com/googlesamples/android-topeka)|Google官方给出的material design应用指南|
+|[android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)|Google官方给出的m音乐播放器，支持Android phones, tablets, Auto, Wear and Cast devices|
+|[ExoPlayer](https://github.com/google/ExoPlayer)|An extensible media player for Android|
+|[guava](https://github.com/google/guava)|Google Core Libraries for Java 6+|
+|[flexbox-layout](https://github.com/google/flexbox-layout)|FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.|
+|[guice](https://github.com/google/guice)|轻量级的依赖注入框架|
+|[gson](https://github.com/google/gson)|A Java serialization/deserialization library that can convert Java Objects into JSON and back.|
+|[protobuf](https://github.com/google/protobuf)|Protocol Buffers - Google's data interchange format|
+|[material-design-icons](https://github.com/google/material-design-icons)|Material Design icons by Google|
+|[auto](https://github.com/google/auto)|Auto 是 Java 生成器源代码集合，包括：AutoFactory - 兼容 JSR-330 的工厂；AutoService - ServiceLoader 的 Provider-configuration 文件；AutoValue - Java 1.6+ 的不可变 value-type 代码生成；Common - Helper 实用工具，用来编写注释处理器|
+|[android-architecture](https://github.com/googlesamples/android-architecture)|A collection of samples to discuss and showcase different architectural tools and patterns for Android apps|
+
+
+##[android-topeka](https://github.com/googlesamples/android-topeka)
+
+<img src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/categories.png" width="200"> <img src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png" width="200"> <img src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/quiz_shakespeare.png" width="200">
+
+##[android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+
+<img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="200"> <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone_lockscreen.png" width="200"> <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone_fullscreen_player.png" width="200"> 
+
+##[ExoPlayer](https://github.com/google/ExoPlayer)
+
+An extensible media player for Android
+
+[Streaming media with ExoPlayer - Google I/O 2016](http://v.youku.com/v_show/id_XMTU4MzA5NjA0NA==.html?f=27314446)
+
+##[guava](https://github.com/google/guava)
+
+##[flexbox-layout](https://github.com/google/flexbox-layout)
+
+<img src="https://github.com/google/flexbox-layout/raw/master/assets/flex-direction.gif" width="300">
+
+--- 
+## u2020
+JakeWharton写的一个App,针对多个库的综合应用：Dagger、ButterKnife、Retrofit、Moshi、Picasso、OkHttp、RxJava、Timber、Madge、ProcessPhoenix、Scalpel、LeakCanary
+
+![](https://github.com/JakeWharton/u2020/raw/master/u2020.gif)
+
+AntennaPod Rss订阅 乐音订阅 - https://github.com/danieloeh/AntennaPod
+Muzei Live Wallpaper 定时更换桌面精美壁纸 - https://github.com/romannurik/muzei
+Financius 简单易用的记账程序 - https://github.com/mvarnagiris/Financius
+ChaseWhisplyProject 打鬼游戏 - https://github.com/tvbarthel/ChaseWhisplyProject
+ZXing 二维码扫描工具 - https://github.com/zxing/zxing
+Anime Taste 全球动画精选- https://github.com/daimajia/AnimeTaste
+
+Notes 小米便签 - https://github.com/MiCode/Notes
+四次元 - https://github.com/qii/weiciyuan
+oschina oschina客户端 - https://github.com/oschina/android-app
+eoecn eoe客户端 - https://github.com/eoecn/android-app
+github 客户端 - https://github.com/github/android
+饭否开源客户端 - https://github.com/mcxiaoke/fanfouapp-opensource
+9GAG stormzhang Android REST Client - https://github.com/stormzhang/9GAG
+Dribbo 碎星大神 - https://github.com/Issacw0ng/Dribbo
+StartupNews - https://github.com/halzhang/StartupNews
+
+##[GitHub 上都有哪些值得关注学习的 Android项目？](https://www.zhihu.com/question/23804819)
+
+##[android-best-practices](https://github.com/futurice/android-best-practices)
+
+##[Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
+
+##[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+
+##[《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+
+##[AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
+
+AndroidSlidingUpPanel 是一个上拉面板, 就是向上滑动的时候往上飞出一个显示面板控件, 该库效果在 Google Music, Google Maps and Rdio等 App 中用到。
+
+![](https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67)
+
+##[EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
+
+## [四季电台](https://github.com/linroid/Sky31Radio)
+
+<img src="https://github.com/linroid/Sky31Radio/raw/master/screenshots/device-2015-01-22-224854.png" width="300"/> <img src="https://github.com/linroid/Sky31Radio/raw/master/screenshots/device-2015-01-22-224820.png" width="300"/> <img src="https://github.com/linroid/Sky31Radio/raw/master/screenshots/device-2015-02-07-141957.png" width="300"/>
+
+
