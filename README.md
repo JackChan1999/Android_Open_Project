@@ -297,6 +297,17 @@ AndroidSlidingUpPanel 是一个上拉面板, 就是向上滑动的时候往上�
 
 <img src="https://github.com/linroid/Sky31Radio/raw/master/screenshots/device-2015-01-22-224854.png" width="200"/> <img src="https://github.com/linroid/Sky31Radio/raw/master/screenshots/device-2015-01-22-224820.png" width="200"/> <img src="https://github.com/linroid/Sky31Radio/raw/master/screenshots/device-2015-02-07-141957.png" width="200"/>
 
+## [superCleanMaster](https://github.com/joyoyao/superCleanMaster)
+
+一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等
+
+<img src="https://github.com/joyoyao/superCleanMaster/raw/master/screenshot/home.jpg" width="300"/> 
+
+## [知乎日报风格的博客园](https://git.oschina.net/yso/CNBlogs)
+
+<img src="http://git.oschina.net/uploads/images/2015/0828/134016_060bd3be_331643.png" width="300" /> <img src="http://git.oschina.net/uploads/images/2015/0828/134030_52e4c62a_331643.png" width="300" /> 
+<img src="http://git.oschina.net/uploads/images/2015/0828/134040_31d507a6_331643.png" width="300" /> <img src="http://git.oschina.net/uploads/images/2015/0828/134510_6d09ceef_331643.png" width="300" />
+
 
 # android-open-project-3
 
@@ -542,3 +553,11 @@ CommonTabLayout:不同于SlidingTabLayout对ViewPager依赖,它是一个不依�
 ##[android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
 
 ![](https://camo.githubusercontent.com/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67) ![](https://camo.githubusercontent.com/11eeb4ab6ec60f72149e39f165f5a4aa01a9540d/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d32612e706e67)
+
+## [WaterDropListView](https://github.com/THEONE10211024/WaterDropListView)
+
+![](https://github.com/THEONE10211024/WaterDropListView/raw/master/demo/demo.gif)
+
+## [CircleProgress](https://github.com/lzyzsd/CircleProgress)
+
+![](https://raw.githubusercontent.com/lzyzsd/CircleProgress/master/demos/circle_progress.gif)
