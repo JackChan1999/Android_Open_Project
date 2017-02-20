@@ -100,6 +100,8 @@ Android Universal Image Loader是一个老牌的图片处理框架，但是在20
 | [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) | Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件      |
 | [TakePhoto](https://github.com/crazycodeboy/TakePhoto) | 轻量级Android照片处理框架                         |
 | [cropper](https://github.com/edmodo/cropper) | 图片裁剪开源框架                                 |
+|[boxing](https://github.com/Bilibili/boxing)|一个多媒体选择器库，B站出品。可以选择一张或者多张图片，提供预览和裁剪功能。同样支持gif图，选择视频和图像压缩功能。|
+
 ##**网络请求**
 | 框架名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
