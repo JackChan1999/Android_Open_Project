@@ -132,7 +132,8 @@ Android Universal Image Loader是一个老牌的图片处理框架，但是在20
 
 ## Blurry
 
-![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.png) ![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif)
+![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.png) 
+![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif)
 
 ## blurkit-android
 
@@ -140,11 +141,11 @@ Android Universal Image Loader是一个老牌的图片处理框架，但是在20
 
 ## BlurView
 
-![](https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png)
+<img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" width="400" />
 
 ## ImageBlurring
 
-![](https://github.com/qiujuer/ImageBlurring/raw/master/images/anim.gif)
+<img src="https://github.com/qiujuer/ImageBlurring/raw/master/images/anim.gif" width="400" />
 
 
 
