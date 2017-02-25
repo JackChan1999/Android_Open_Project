@@ -1,5 +1,4 @@
-#
-**1、图片加载，缓存，处理**
+# **1、图片加载，缓存，处理**
 | 框架名称 | 功能描述 |
 |:---------------------------------------- |:------------------------ |
 | [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | 一个强大的加载，缓存，展示图片的库，<font color="red" ><b>已过时</b></font>|
