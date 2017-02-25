@@ -129,3 +129,23 @@ Android Universal Image Loader是一个老牌的图片处理框架，但是在20
 ## android-stackblur
 
 <img src="https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67" width="400" /> <img src="https://camo.githubusercontent.com/821ae0abdf62af50624fc429f79b2d47f4f22d53/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74322e706e67" width="400" />
+
+## Blurry
+
+![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.png) ![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif)
+
+## blurkit-android
+
+![](https://github.com/flurgle/BlurKit-Android/raw/master/.repo/demo.gif)
+
+## BlurView
+
+![](https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png)
+
+## ImageBlurring
+
+![](https://github.com/qiujuer/ImageBlurring/raw/master/images/anim.gif)
+
+
+
+
