@@ -1,2 +1,2 @@
-Android开源项目收集
+Android open project 开源项目收集
 
