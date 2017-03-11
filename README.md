@@ -10,7 +10,7 @@
 
 - [Android开发常用第三方平台](http://blog.csdn.net/axi295309066/article/details/52901991)
 
--  [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+- [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 - [free-programming-books](https://github.com/vhf/free-programming-books)
 
@@ -100,7 +100,7 @@ Android Universal Image Loader是一个老牌的图片处理框架，但是在20
 | [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) | Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件      |
 | [TakePhoto](https://github.com/crazycodeboy/TakePhoto) | 轻量级Android照片处理框架                         |
 | [cropper](https://github.com/edmodo/cropper) | 图片裁剪开源框架                                 |
-|[boxing](https://github.com/Bilibili/boxing)|一个多媒体选择器库，B站出品。可以选择一张或者多张图片，提供预览和裁剪功能。同样支持gif图，选择视频和图像压缩功能。|
+| [boxing](https://github.com/Bilibili/boxing) | 一个多媒体选择器库，B站出品。可以选择一张或者多张图片，提供预览和裁剪功能。同样支持gif图，选择视频和图像压缩功能。 |
 
 ##**网络请求**
 | 框架名称                                     | 功能描述                                     |
@@ -245,8 +245,9 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [weex](https://github.com/alibaba/weex)  | A framework for building Mobile cross-platform UI |
 | [fastjson](https://github.com/alibaba/fastjson) | A fast JSON parser/generator for Java    |
 | [Dubbo](https://github.com/alibaba/dubbo) | Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities |
-| [AndFix](https://github.com/alibaba/AndFix) | AndFix is a library that offer hot-fix for Android App. |
-| [dexposed](https://github.com/alibaba/dexposed) | dexposed enable 'god' mode for single android application. |
+| [AndFix](https://github.com/alibaba/AndFix) | AndFix is a library that offer hot-fix for Android App |
+| [dexposed](https://github.com/alibaba/dexposed) | dexposed enable 'god' mode for single android application |
+| [vlayout](https://github.com/alibaba/vlayout) | VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题 |
 
 #小米开源项目
 | 项目名称                                     | 功能描述           |
