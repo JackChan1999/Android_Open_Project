@@ -280,7 +280,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 
 ## [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
 
-<img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="200"> <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone_lockscreen.png" width="200"> <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone_fullscreen_player.png" width="200">
+<img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="300" /> <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone_lockscreen.png" width="300" /> <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone_fullscreen_player.png" width="300" />
 
 ## [ExoPlayer](https://github.com/google/ExoPlayer)
 
