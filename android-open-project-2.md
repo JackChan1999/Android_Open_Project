@@ -1,5 +1,5 @@
 # 下拉刷新
-## [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) 
+## [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)
 
 ![](https://github.com/chrisbanes/Android-PullToRefresh/raw/master/header_graphic.png)
 
@@ -29,7 +29,7 @@
 
 ## ExpandableTextView
 
-<img src="https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true" width="400">
+<img src="assets/ExpandableTextView.gif" width="400">
 
 ## [AlignTextView](https://github.com/androiddevelop/AlignTextView/tree/master/align-text-view/src/main/java/me/codeboy/android/aligntextview)
 

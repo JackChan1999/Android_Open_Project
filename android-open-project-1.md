@@ -155,20 +155,20 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 | [WilliamChart](https://github.com/diogobernardino/WilliamChart) | 创建图表的Android库                     |
 | [HelloCharts](https://github.com/lecho/hellocharts-android) | 兼容到API8的Android图表库，使用的App有：薄荷     |
 | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | 一个强大的Android图表视图/图形库，使用的App有：春雨医生 |
-## **9、后台处理**
+## **后台处理**
 
 | 框架名称                                     | 功能描述                    |
 | :--------------------------------------- | :---------------------- |
 | [Tape](https://github.com/square/tape)   | 一个轻快的，事务性的，基于文件的FIFO的库  |
 | [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) | 一个专门为Android轻松调度任务的工作队列 |
-## **10、事件总线**
+## **事件总线**
 
 | 框架名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
 | [EventBus](https://github.com/greenrobot/EventBus) | 安卓优化的事件总线，简化了活动、片段、线程、服务等的通信，使用的App有：薄荷  |
 | [Otto](https://github.com/square/otto)   | 一个基于Guava的增强的事件总线                        |
 | [HermesEventBus](https://github.com/eleme/HermesEventBus) | 一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用 |
-## **11、响应式编程**
+## **响应式编程**
 
 | 框架名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
@@ -300,22 +300,34 @@ JakeWharton写的一个App,针对多个库的综合应用：Dagger、ButterKnife
 
 ![](https://github.com/JakeWharton/u2020/raw/master/u2020.gif)
 
-AntennaPod Rss订阅 乐音订阅 - https://github.com/danieloeh/AntennaPod
-Muzei Live Wallpaper 定时更换桌面精美壁纸 - https://github.com/romannurik/muzei
-Financius 简单易用的记账程序 - https://github.com/mvarnagiris/Financius
-ChaseWhisplyProject 打鬼游戏 - https://github.com/tvbarthel/ChaseWhisplyProject
-ZXing 二维码扫描工具 - https://github.com/zxing/zxing
-Anime Taste 全球动画精选- https://github.com/daimajia/AnimeTaste
+[AntennaPod Rss订阅 乐音订阅](https://github.com/danieloeh/AntennaPod)
 
-Notes 小米便签 - https://github.com/MiCode/Notes
-四次元 - https://github.com/qii/weiciyuan
-oschina oschina客户端 - https://github.com/oschina/android-app
-eoecn eoe客户端 - https://github.com/eoecn/android-app
-github 客户端 - https://github.com/github/android
-饭否开源客户端 - https://github.com/mcxiaoke/fanfouapp-opensource
-9GAG stormzhang Android REST Client - https://github.com/stormzhang/9GAG
-Dribbo 碎星大神 - https://github.com/Issacw0ng/Dribbo
-StartupNews - https://github.com/halzhang/StartupNews
+[Muzei Live Wallpaper 定时更换桌面精美壁纸](https://github.com/romannurik/muzei)
+
+[Financius 简单易用的记账程序](https://github.com/mvarnagiris/Financius)
+
+[ChaseWhisplyProject 打鬼游戏](https://github.com/tvbarthel/ChaseWhisplyProject)
+
+[ZXing 二维码扫描工具](https://github.com/zxing/zxing)
+
+[Anime Taste 全球动画精选](https://github.com/daimajia/AnimeTaste)
+
+[Notes 小米便签](https://github.com/MiCode/Notes)
+
+[四次元](https://github.com/qii/weiciyuan)
+[oschina oschina客户端](https://github.com/oschina/android-app)
+
+[eoecn eoe客户端](https://github.com/eoecn/android-app)
+
+[github 客户端](https://github.com/github/android)
+
+[饭否开源客户端](https://github.com/mcxiaoke/fanfouapp-opensource)
+
+[9GAG stormzhang Android REST Client](https://github.com/stormzhang/9GAG)
+
+[Dribbo 碎星大神](https://github.com/Issacw0ng/Dribbo)
+
+[StartupNews](https://github.com/halzhang/StartupNews)
 
 ## [GitHub 上都有哪些值得关注学习的 Android项目？](https://www.zhihu.com/question/23804819)
 
@@ -562,7 +574,7 @@ CommonTabLayout:不同于SlidingTabLayout对ViewPager依赖,它是一个不依�
 
 ## [shimmer-android](https://github.com/facebook/shimmer-android)
 
-![](https://github.com/facebook/shimmer-android/raw/master/shimmer.gif?raw=true)
+![](assets/shimmer.gif)
 
 ## [Material-Animations](https://github.com/lgvalle/Material-Animations)
 

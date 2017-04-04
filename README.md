@@ -35,4 +35,10 @@
 
 - [计算机常用基础算法](https://github.com/shijiebei2009/Algorithms)
 
+## Android开发常用开源项目
+
 ![开源框架](http://img.blog.csdn.net/20161023134413810)
+
+## 第三方开发平台
+
+![第三方开发平台](http://img.blog.csdn.net/20161023155813600)
