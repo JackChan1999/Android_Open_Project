@@ -168,6 +168,7 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 | [EventBus](https://github.com/greenrobot/EventBus) | 安卓优化的事件总线，简化了活动、片段、线程、服务等的通信，使用的App有：薄荷  |
 | [Otto](https://github.com/square/otto)   | 一个基于Guava的增强的事件总线                        |
 | [HermesEventBus](https://github.com/eleme/HermesEventBus) | 一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用 |
+
 ## **响应式编程**
 
 | 框架名称                                     | 功能描述                                     |
@@ -187,6 +188,7 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 | [Logger](https://github.com/orhanobut/logger) | 简单，漂亮，强大的Android日志工具 |
 | [Hugo](https://github.com/JakeWharton/hugo) | 在调试版本上注解的触发方法进行日志记录  |
 | [Timber](https://github.com/JakeWharton/timber) | 一个小的，可扩展的日志工具        |
+
 ## **测试框架**
 
 | 框架名称                                     | 功能描述                 |
@@ -194,7 +196,7 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 | [Mockito](https://github.com/mockito/mockito) | Java编写的Mocking单元测试框架 |
 | [Robotium](https://github.com/RobotiumTech/robotium) | Android UI 测试        |
 | [Robolectric](https://github.com/robolectric/robolectric) | Android单元测试框架        |
-<br>
+
 Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso等
 
 ## **调试框架**
@@ -202,6 +204,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | 框架名称                                     | 功能描述                                 |
 | :--------------------------------------- | :----------------------------------- |
 | [Stetho](https://github.com/facebook/stetho) | 调试Android应用的桥梁，使得可以利用Chrome开发者工具进行调试 |
+
 ## **性能优化**
 
 | 框架名称                                     | 功能描述                  |
@@ -211,6 +214,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [ACRA](https://github.com/ACRA/acra)     | Android应用程序崩溃报告       |
 
 ## **热修复**
+
 | 框架名称                                     | 功能描述         |
 | :--------------------------------------- | :----------- |
 | [tinker](https://github.com/Tencent/tinker) | 腾讯开源的一个热修复框架 |
@@ -218,6 +222,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [dexposed](https://github.com/alibaba/dexposed) | alibaba热修复框架 |
 
 ## **二维码**
+
 | 框架名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
 | [Zxing](https://github.com/zxing/zxing)  | 一个二维码开源框架                                |
@@ -227,6 +232,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 
 
 ## **多媒体**
+
 | 框架名称                                     | 功能描述                             |
 | :--------------------------------------- | :------------------------------- |
 | [ijkplayer](https://github.com/Bilibili/ijkplayer) | Bilibili开源的视频播放器                 |
@@ -236,9 +242,8 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | 百度媒体云                                    | 基于百度视频处理、人脸识别、语音等技术媒体相关的整体解决方案   |
 | [ExoPlayer](https://github.com/google/ExoPlayer) | Google开源的视频播放器                   |
 
-# Android开源项目
-
 # 阿里巴巴
+
 | 项目名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
 | [freeline](https://github.com/alibaba/freeline) | Freeline 是 Android 平台上的秒级编译方案，Instant Run 的替代品，也可以从 Freeline 官方主页来获取更多的信息。Freeline 由蚂蚁聚宝 Android 团队开发，它可以充分利用缓存文件，在几秒钟内迅速地对代码的改动进行编译并部署到设备上，有效地减少了日常开发中的大量重新编译与安装的耗时。Freeline能够为Android开发者节省很多喝杯咖啡的时间 |
@@ -250,6 +255,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [vlayout](https://github.com/alibaba/vlayout) | VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题 |
 
 # 小米开源项目
+
 | 项目名称                                     | 功能描述           |
 | :--------------------------------------- | :------------- |
 | [Notes](https://github.com/MiCode/Notes) | 小米便签社区开源版      |
@@ -257,6 +263,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [SoundRecorder](https://github.com/MiCode/SoundRecorder) | MIUI录音机社区开源版   |
 
 # Google开源项目
+
 | 项目名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
 | [GCM](https://github.com/google/gcm)     | Google Cloud Messaging 消息推送              |
@@ -273,6 +280,7 @@ Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso�
 | [auto](https://github.com/google/auto)   | Auto 是 Java 生成器源代码集合，包括：AutoFactory - 兼容 JSR-330 的工厂；AutoService - ServiceLoader 的 Provider-configuration 文件；AutoValue - Java 1.6+ 的不可变 value-type 代码生成；Common - Helper 实用工具，用来编写注释处理器 |
 | [android-architecture](https://github.com/googlesamples/android-architecture) | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps |
 
+# open project
 
 ## [android-topeka](https://github.com/googlesamples/android-topeka)
 
