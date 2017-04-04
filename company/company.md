@@ -20,6 +20,26 @@
 | [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) | Paging indicator widgets compatible with the ViewPager |
 | [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | Java实现基于LRU的磁盘缓存                         |
 
+## [JakeWharton scalpel](https://github.com/JakeWharton/scalpel)
+
+Jake Wharton，Android开发领域传奇一般的存在，熟悉Android开发的同学应该都听说过，即便没有，也应该会经常用到他主导或参与贡献的开源 项目，他在GitHub上开源了多个Android兼容性、依赖注入相关的知名项目，目前就职Square, 也参与贡献了Square公司开源的诸如Retrofit, okhttp等热门项目。
+
+Jake大神喜欢以刀命名自己的项目，可能他觉得这能很好的表达它们作为开发利器的犀利程度，不过没准他也很喜欢中国武侠小说呢。
+
+他最有名的两把刀，一把是Dagger, 匕首，一个依赖注入框架，用来解耦开发中各模块依赖的，最早由他开发与维护，后来转给Google维护；另一把是同样大名鼎鼎的ButterKnife， 黄油刀，有了它，你再也不用写findViewById了，以后有机会给大家详细介绍它们。
+
+今天的主角是它们不那么知名的小兄弟，Scalpel，这把非常酷炫实用的解剖刀。
+
+他其实就是实现了一个三维效果的界面布局层次展示，不需要手机连接开发设备，只需要简单几行代码将其集成到你的应用中，即可开启酷炫之旅，它提供的功能包括：
+
+- 通过setLayerInteractionEnabled(boolean)可开启与关闭此功能。
+
+- 通过setDrawViews(boolean)可控制是否绘制View, 也就是说它可以仅仅是个简单的布局线框图，也可以是色彩丰富的真实效果图。
+
+- 通过setDrawIds(boolean)可控制是否显示各控件的Id, 你就能知道你自己正在调试的那个控件到底在哪了？
+
+- 通过setChromeColor，setChromeShadowColor可自定义线框图的颜色，随你喜欢。
+
 ## 阿里巴巴
 
 | 项目名称                                     | 功能描述                                     |

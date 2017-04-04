@@ -1,12 +1,11 @@
 作者：Jack-sen，原文地址：http://blog.csdn.net/crazy1235/article/details/55805071
 
-
 medium 平台有位作者总结了2017年初最棒最受欢迎的25个第三方库，相信大家都应该尝试一下。
 
 ![](http://img.blog.csdn.net/20170219152101767?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3JhenkxMjM1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-
 # Lottie
+
 这是一个动画库。通过Adobe After Effects做出动画效果，然后通过Bodymovin(AE的插件）导出JSON数据，然后通过该库生成原生动画效果。在Google Play Store上可以下载demo。该项目在Github上已经由超过8000个star。猴赛雷~~ ***Airbnb***公司出品。效果图如下：
 
 ![](http://img.blog.csdn.net/20170219153937139?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3JhenkxMjM1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
@@ -26,7 +25,6 @@ Github地址：https://github.com/GrenderG/Toasty
 ![](http://img.blog.csdn.net/20170219154344144?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3JhenkxMjM1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 Github地址：https://github.com/Muddz/StyleableToast
-
 
 # Store
 Store是一个异步数据加载和缓存数据的库。

@@ -23,3 +23,7 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 | [Fastjson](https://github.com/alibaba/fastjson) | Java上一个快速的JSON解析器/生成器                    |
 | [HtmlPaser](https://sourceforge.net/projects/htmlparser/) | 一种用来解析单个独立html或嵌套html的方式                 |
 | [Jsoup](https://github.com/jhy/jsoup)    | 一个以最好的DOM，CSS和jQuery解析html的库             |
+
+## Java-WebSocket
+
+简单的说，websocket就是用来做网页聊天以及手机推送用的。使用的App有薄荷
