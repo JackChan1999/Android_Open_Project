@@ -14,7 +14,7 @@
 * [动画](动画/animation.md)
 * [多媒体](多媒体/media.md)
 * [缓存](缓存/cache.md)
-* [事件总线](事件总线/eventbus)
+* [事件总线](事件总线/eventbus.md)
 * [数据库](数据库/database.md)
 * [依赖注入](依赖注入/inject)
 * [热修复](hotfix/hotfix.md)
