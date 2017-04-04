@@ -53,7 +53,7 @@
 * [缓存](缓存/cache.md)
 * [事件总线](事件总线/eventbus.md)
 * [数据库](数据库/database.md)
-* [依赖注入](依赖注入/inject)
+* [依赖注入](依赖注入/inject.md)
 * [热修复](hotfix/hotfix.md)
 * [Log日志](Log日志/logutils.md)
 * [UI控件](UI控件/widget.md)
