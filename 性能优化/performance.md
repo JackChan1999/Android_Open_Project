@@ -32,3 +32,10 @@ Trove 是一个快速、轻量级 Collection 类的集合。Trove 提供所有�
 
 ## org.eclipse.mat
 内存分析。使用的App有薄荷，网易新闻
+
+## [**msgpack**](http://msgpack.org/)
+
+MessagePack是一个基于二进制高效的对象序列化Library用于跨语言通信。
+它可以像JSON那样，在许多种语言之间交换结构对象；但是它比JSON更快速也更轻巧。 比Google Protocol Buffers还要快4倍
+
+https://github.com/msgpack/msgpack-java

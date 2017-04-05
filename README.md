@@ -27,6 +27,7 @@
 - [Android 学习资料收集](https://github.com/Freelander/Android_Data)
 
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 
 - [awesome-android](https://snowdream.github.io/awesome-android/)
@@ -59,6 +60,9 @@
 * [UI控件](UI控件/widget.md)
 * [TextView](UI控件/TextView.md)
 * [UI控件第1季](UI控件/demo1.md)
+* [utils](utils/utils.md)
+* [project](project/project.md)
+* [后台处理](后台处理/后台处理.md)
 
 ## Android开发常用开源项目
 

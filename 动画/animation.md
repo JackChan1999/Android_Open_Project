@@ -57,3 +57,22 @@ Android Animation Easing Functions. Let's make animation more real!
 使用的App有：快手
 
 ![AnimationEasingFunctions](https://camo.githubusercontent.com/b22b160910884cdd5984b67864b5786e4d34a793/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f36313064633033346a77316568757a6f756c346838673230623030676d6839732e676966)
+
+## ViewPagerTransforms
+ViewPager切换动画
+
+## [**recyclerview-animators**](https://github.com/wasabeef/recyclerview-animators)
+
+![recyclerview-animators](https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo.gif)
+
+## [shimmer-android](https://github.com/facebook/shimmer-android)
+
+![](https://github.com/facebook/shimmer-android/raw/master/shimmer.gif?raw=true)
+
+## [Material-Animations](https://github.com/lgvalle/Material-Animations)
+
+<img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_slide.gif" width="300"> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_slide.gif" width="300"> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_fade.gif" width="300">
+
+## [Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
+
+![](https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif)

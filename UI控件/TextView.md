@@ -51,3 +51,17 @@
 
 ## TextDrawable
 <img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen1-material.png" width="300"> <img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png" width="300"> <img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen7.png" width="300">
+
+## [html-textview](https://github.com/SufficientlySecure/html-textview)
+
+## ReadMoreTextView
+
+![](https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png)
+
+## HTextView
+
+<img src="https://github.com/hanks-zyh/HTextView/raw/master/screenshot/demo.gif" width="400" />
+
+## [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
+
+![](https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png)

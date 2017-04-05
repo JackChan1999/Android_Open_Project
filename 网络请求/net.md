@@ -27,3 +27,15 @@ Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理�
 ## Java-WebSocket
 
 简单的说，websocket就是用来做网页聊天以及手机推送用的。使用的App有薄荷
+
+## 多线程下载
+
+[MultiThreadDownload](https://github.com/Aspsine/MultiThreadDownload) 使用的App有：薄荷
+
+[FileDownloader](https://github.com/lingochamp/FileDownloader)
+
+## nanohttpd
+
+https://github.com/NanoHttpd/nanohttpd
+
+嵌入式HTTP服务器 ，NanoHTTPD是一个免费、轻量级的(只有一个Java文件) HTTP服务器,可以很好地嵌入到Java程序中。支持 GET, POST, PUT, HEAD 和 DELETE 请求，支持文件上传，占用内存很小。可轻松定制临时文件使用和线程模型。
