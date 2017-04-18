@@ -15,6 +15,10 @@
 
 ![](https://github.com/chengdazhi/DecentBanner/raw/master/images/decent_sample.gif)
 
+### [LoopViewPagerLayout](https://github.com/why168/LoopViewPagerLayout)
+
+![](https://raw.githubusercontent.com/why168/LoopViewPager/master/art/sample3.gif)
+
 ## 下拉刷新
 
 ### com.handmark.pulltorefresh.library 下拉刷新

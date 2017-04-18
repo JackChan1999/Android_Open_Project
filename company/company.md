@@ -77,3 +77,11 @@ Jake大神喜欢以刀命名自己的项目，可能他觉得这能很好的表�
 | [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google          |
 | [auto](https://github.com/google/auto)   | Auto 是 Java 生成器源代码集合，包括：AutoFactory - 兼容 JSR-330 的工厂；AutoService - ServiceLoader 的 Provider-configuration 文件；AutoValue - Java 1.6+ 的不可变 value-type 代码生成；Common - Helper 实用工具，用来编写注释处理器 |
 | [android-architecture](https://github.com/googlesamples/android-architecture) | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps |
+
+## Facebook
+
+| 项目名称         | 功能描述                                     |
+| :----------- | :--------------------------------------- |
+| react-native | A framework for building native apps with React |
+| fresco       | 最好的图片处理框架，没有之一                           |
+| rebound      | 动画库                                      |
