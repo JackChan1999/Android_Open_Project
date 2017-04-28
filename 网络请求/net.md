@@ -2,11 +2,13 @@
 
 | 框架名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
-| httpclient                               | apache开源的网络请求框架，已过时                      |
+| httpclient                               | apache开源的网络请求框架，已过时，android6.0后删除        |
 | AsyncHttpClient                          | 基于httpclient封装，已过时                       |
 | [OkHttp](https://github.com/square/okhttp) | Square出品，一个Http与Http/2的客户端               |
 | [Retrofit](https://github.com/square/retrofit) | Square出品，类型安全的Http客户端                    |
 | [Volley](https://android.googlesource.com/platform/frameworks/volley) | Google推出的Android异步网络请求框架和图片加载框架，使用的App有：网易新闻 |
+| HttpURLConnection                        | android原生api，省电省流量                       |
+| [NoHttp](https://github.com/yanzhenjie/NoHttp) | Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection，与RxJava完美结合，比Retrofit更简单易用。 |
 
 从Android 6.0 开始，Google删除了apache的开源网络请求框架httpclient，所以基于httpclient的AsyncHttpClient也不推荐使用了
 
