@@ -9,12 +9,15 @@
 | [Volley](https://android.googlesource.com/platform/frameworks/volley) | Google推出的Android异步网络请求框架和图片加载框架，使用的App有：网易新闻 |
 | HttpURLConnection                        | android原生api，省电省流量                       |
 | [NoHttp](https://github.com/yanzhenjie/NoHttp) | Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection，与RxJava完美结合，比Retrofit更简单易用。 |
+| [okhttputils](https://github.com/hongyangAndroid/okhttputils) | okhttp的辅助类                               |
 
 从Android 6.0 开始，Google删除了apache的开源网络请求框架httpclient，所以基于httpclient的AsyncHttpClient也不推荐使用了
 
 Volley适合那些请求频繁但数据量不大的场景，不适用于大数据的请求，比如下载文件
 
 Android 6.0 后，Android开始使用OkHttp，而Retrofit是一个网络代理框架，可以更简单的使用OkHttp
+
+NoHttp使用：http://blog.csdn.net/column/details/nohttp.html
 
 ## **网络解析**
 
