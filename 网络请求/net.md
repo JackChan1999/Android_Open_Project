@@ -10,6 +10,12 @@
 | HttpURLConnection                        | android原生api，省电省流量                       |
 | [NoHttp](https://github.com/yanzhenjie/NoHttp) | Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection，与RxJava完美结合，比Retrofit更简单易用。 |
 | [okhttputils](https://github.com/hongyangAndroid/okhttputils) | okhttp的辅助类                               |
+| Mina                                     | Apache Mina是一个能够帮助用户开发高性能和高伸缩性网络应用程序的框架。它通过Java nio技术基于TCP/IP和UDP/IP协议提供了抽象的、事件驱动的、异步的API。 |
+| mars                                     | Mars 是微信官方的跨平台跨业务的终端基础组件。                |
+| Openfire                                 | Openfire 是实时的基于WEB的即时消息传输平台              |
+|                                          |                                          |
+|                                          |                                          |
+|                                          |                                          |
 
 从Android 6.0 开始，Google删除了apache的开源网络请求框架httpclient，所以基于httpclient的AsyncHttpClient也不推荐使用了
 
@@ -44,3 +50,17 @@ NoHttp使用：http://blog.csdn.net/column/details/nohttp.html
 https://github.com/NanoHttpd/nanohttpd
 
 嵌入式HTTP服务器 ，NanoHTTPD是一个免费、轻量级的(只有一个Java文件) HTTP服务器,可以很好地嵌入到Java程序中。支持 GET, POST, PUT, HEAD 和 DELETE 请求，支持文件上传，占用内存很小。可轻松定制临时文件使用和线程模型。
+
+## Mina
+
+Mina是用于开发高性能和高可用性的网络应用程序的基础框架。通过使用MINA框架可以可以省下处理底层I/O和线程并发等复杂工作，开发人员能够把更多的精力投入到业务设计和开发当中
+
+Apache Mina Server 是一个网络通信应用框架，也就是说，它主要是对基于TCP/IP、UDP/IP协议栈的通信框架（当然，也可以提供JAVA 对象的序列化服务、虚拟机管道通信服务等），Mina 可以帮助我们快速开发高性能、高扩展性的网络通信应用，Mina 提供了事件驱动、异步（Mina 的异步IO 默认使用的是JAVA NIO 作为底层支持）操作的编程模型。Mina 主要有1.x 和2.x 两个分支，这里我们讲解最新版本2.0，如果你使用的是Mina 1.x，那么可能会有一些功能并不适用。学习本文档，需要你已掌握JAVA IO、JAVA NIO、JAVASocket、JAVA 线程及并发库(java.util.concurrent.*)的知识。Mina 同时提供了网络通信的Server 端、Client 端的封装，无论是哪端，Mina 在整个网通通信结构中都处于如下的位置：可见Mina 的API 将真正的网络通信与我们的应用程序隔离开来，你只需要关心你要发送、接收的数据以及你的业务逻辑即可
+
+## openfire
+
+是开源的、基于可拓展通讯和表示协议(XMPP)、采用Java编程语言开发的实时协作服务器。 Openfire安装和使用都非常简单，并利用Web进行管理。单台服务器可支持上万并发用户。您可以使用它轻易的构建高效率的[即时通信](http://baike.baidu.com/item/%E5%8D%B3%E6%97%B6%E9%80%9A%E4%BF%A1)服务器.
+
+## Mars 
+
+Mars 是微信官方的终端基础组件，是一个使用 C++ 编写的业务性无关、平台性无关的基础组件。目前已接入微信 Android、iOS、Mac、Windows、WP 等客户端。
