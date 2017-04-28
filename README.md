@@ -41,6 +41,7 @@
 * [Android开发常用框架](README.md)
 * [android-open-project](android-open-project/android-open-project.md)
 * [开源项目](company/company.md)
+* [快速开发框架](快速开发/快速开发.md)
 * [2017年伊始，你需要尝试的25个Android第三方库](android-open-project/2017年伊始，你需要尝试的25个Android第三方库.md)
 * [第三方开发平台](开放平台/第三方开发平台.md)
 * [图片处理](图片处理/图片处理.md)
@@ -78,7 +79,7 @@
 - Email：<815712739@qq.com>
 - CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
 - 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&wvr=6&topsug=1&is_all=1)
-- GitHub：[JackChen1999](https://github.com/JackChen1999)
+- GitHub：[JackChan1999](https://github.com/JackChan1999)
 - GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
 
 如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！
