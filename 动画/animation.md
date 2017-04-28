@@ -58,8 +58,10 @@ Android Animation Easing Functions. Let's make animation more real!
 
 ![AnimationEasingFunctions](https://camo.githubusercontent.com/b22b160910884cdd5984b67864b5786e4d34a793/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f36313064633033346a77316568757a6f756c346838673230623030676d6839732e676966)
 
-## ViewPagerTransforms
+## [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
 ViewPager切换动画
+
+![](https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966)
 
 ## [**recyclerview-animators**](https://github.com/wasabeef/recyclerview-animators)
 
@@ -76,3 +78,16 @@ ViewPager切换动画
 ## [Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
 
 ![](https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif)
+
+## [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)
+
+![](https://raw.githubusercontent.com/nhaarman/ListViewAnimations/gh-pages/images/dynamiclistview.gif)
+
+## [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
+
+![](https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif)
+
+## [BaseAnimation](https://github.com/z56402344/BaseAnimation)
+
+![](https://camo.githubusercontent.com/e7d3241bc45a424c42170cf17a4d9643da13c590/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313430323130323232313331393638)
+

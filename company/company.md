@@ -65,7 +65,7 @@ Jake大神喜欢以刀命名自己的项目，可能他觉得这能很好的表�
 | 项目名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
 | [GCM](https://github.com/google/gcm)     | Google Cloud Messaging 消息推送              |
-| [ iosched：](https://github.com/google/iosched) | Google I/O Android App                   |
+| [ iosched](https://github.com/google/iosched) | Google I/O Android App                   |
 | [android-topeka](https://github.com/googlesamples/android-topeka) | Google官方给出的material design应用指南           |
 | [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) | Google官方给出的m音乐播放器，支持Android phones, tablets, Auto, Wear and Cast devices |
 | [ExoPlayer](https://github.com/google/ExoPlayer) | An extensible media player for Android   |

@@ -42,6 +42,7 @@
 * [android-open-project](android-open-project/android-open-project.md)
 * [开源项目](company/company.md)
 * [快速开发框架](快速开发/快速开发.md)
+* [工具集](工具集/commons.md)
 * [2017年伊始，你需要尝试的25个Android第三方库](android-open-project/2017年伊始，你需要尝试的25个Android第三方库.md)
 * [第三方开发平台](开放平台/第三方开发平台.md)
 * [图片处理](图片处理/图片处理.md)
@@ -67,6 +68,8 @@
 * [Awesome-MaterialDesign](MaterialDesign/Awesome-MaterialDesign.md)
 
 ## Android开发常用开源项目
+
+![开源框架](assets/开源框架.png)
 
 ![开源框架](http://img.blog.csdn.net/20161023134413810)
 
