@@ -3,6 +3,7 @@
 - [Android开源项目](http://blog.csdn.net/axi295309066/article/details/53857958)
 - [Android开发常用开源框架2](http://blog.csdn.net/axi295309066/article/details/53763565)
 - [Android开发常用开源框架3](http://blog.csdn.net/axi295309066/article/details/53783009)
+- [GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频](https://github.com/open-android/Android)
 - [2017年伊始，你需要尝试的25个Android第三方库](http://blog.csdn.net/axi295309066/article/details/56013369)
 - [Android开发常用第三方平台](http://blog.csdn.net/axi295309066/article/details/52901991)
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)

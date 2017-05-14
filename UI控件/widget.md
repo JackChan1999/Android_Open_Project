@@ -1,3 +1,60 @@
+## [ShoppingCartAddSubtract](https://github.com/open-android/ShoppingCartAddSubtract)
+
+一种漂亮的UI控件，能更灵活的控制数字的增减 , 类似商城购物车加减控件
+
+![](https://camo.githubusercontent.com/6994e38e16bf13eed72d642b5e9223c98a234fe7/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343033373130352d616437373963666536613731353636382e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
+## [Android-DivergeView2](https://github.com/open-android/Android-DivergeView2)
+
+仿美拍直播平台的点赞动画特效
+
+![](https://camo.githubusercontent.com/ffdc0a1b77e6358023858471301fa490518b3a61/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343033373130352d623533386466333564636363636438312e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
+## [JieCaoVideoPlayer](https://github.com/open-android/JieCaoVideoPlayer)
+
+高仿今日头条ListView视频播放和优酷视频播放悬浮窗，主要特点
+
+1. 视频全屏播放和浮层小窗播放
+2. 可以完全自定义UI
+3. 能在`ListView`、`ViewPager`和`ListView`、`ViewPager`和`Fragment`等多重嵌套模式下全屏工作
+4. 手势修改进度和音量
+5. 视频大小的屏幕适配，宽或长至少有两个对边是充满屏幕的，另外两个方向居中
+6. 可以在加载、暂停、播放等各种状态中正常进入全屏和退出全屏
+7. 重力感应自动全屏
+8. WebView嵌套本地视频控件
+9. [支持https和rtsp](https://developer.android.com/guide/topics/media/media-formats.html)
+10. 小于 100kb
+
+![](https://camo.githubusercontent.com/17a8e9d85cbfa4c28e87a30000fa46066e0223b6/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343033373130352d376130313337613263613232333733362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
+## [CoolImageView](https://github.com/open-android/CoolImageView)
+
+一分钟实现QQ首页动画特效
+
+![](https://github.com/open-android/CoolImageView/raw/master/myapplication/gif/CoolImageView.gif)
+
+## [ViewPager](https://github.com/open-android/ViewPager)
+
+支持水平方向上滑动和竖直方向上的滑动，直接修改的官方提供的`ViewPager`的源码，注入了方向判断，使用起来和官方的`ViewPager`基本一样，还有监听事件也是一样的，支持`setOffscreenPageLimit()`可以放心滑动，以及`TabLayout`等。
+
+![](https://github.com/open-android/ViewPager/raw/master/gif/horizontal.gif)
+
+![](https://github.com/open-android/ViewPager/raw/master/gif/vertical.gif)
+
+## [DragFooterView](https://github.com/open-android/DragFooterView)
+
+一分钟实现向左拖拽跳转至更多页面的通用控件
+
+![](https://github.com/open-android/DragFooterView/raw/master/DragFooterView/screenshot/demo.gif)
+
+## [FragmentTabhostUtils](https://github.com/open-android/FragmentTabhostUtils)
+
+这是一个封装了android常用的底部导航栏+fragment的库，用这个库，我们可以几行代码就搞定大多数APP的主界面的布局
+
+![](https://github.com/yaochangliang159/Android-TabView/raw/master/screenshot/image_left.jpg)
+
+![](https://github.com/yaochangliang159/Android-TabView/raw/master/screenshot/image_bottom.jpg)
+
 ## 轮播图，横幅，广告条
 
 ### BGABanner-Android
@@ -119,6 +176,24 @@ https://github.com/prolificinteractive/material-calendarview
 <img src="https://github.com/prolificinteractive/material-calendarview/raw/master/images/screencast.gif" width="300">
 
 ## Picker
+
+### [CityPickerWebView](https://github.com/open-android/CityPickerWebView)
+
+省市县三级联动，JS实现
+
+![](https://camo.githubusercontent.com/4b192323094a0aa256246d4d00cac16dcf81633a/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343033373130352d393063616439623831616531356535662e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
+### [WheelPicker](https://github.com/open-android/WheelPicker)
+
+Android滚轮选择控件 , 包含3D 效果， 滑动流畅无比
+
+![](https://camo.githubusercontent.com/5d62093f2140bf7b1e6b23219f588c359585f951/687474703a2f2f692e696d6775722e636f6d2f54506b4972424a2e676966)
+
+### [WheelPicker](https://github.com/AigeStudio/WheelPicker)
+
+![](https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/Preview.gif)
+
+![](https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/WheelDatePicker.gif)
 
 ### [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
 
@@ -243,6 +318,18 @@ Draggable Panel是一个Android库创建用于构建一个可拖动的用户界�
 <img src="https://github.com/pedrovgs/DraggablePanel/raw/develop/art/screenshot1.gif" width="200"> <img src="https://github.com/pedrovgs/DraggablePanel/raw/develop/art/screenshot2.gif" width="200"> <img src="https://github.com/pedrovgs/DraggablePanel/raw/develop/art/screenshot3.gif" width="200"> <img src="https://github.com/pedrovgs/DraggablePanel/raw/develop/art/screenshot4.gif" width="200">
 
 ## Dialog
+
+### [MaterailDialog](https://github.com/open-android/MaterailDialog)
+
+一款超级漂亮的对话框 支持扩展 类似android5.0后的对话框
+
+![](https://camo.githubusercontent.com/35c466538c927be80a8840d836687473ded87f2c/687474703a2f2f692e696d6775722e636f6d2f43506f724c59332e676966)
+
+### [GuideDialog](https://github.com/open-android/GuideDialog)
+
+一行代码实现ofo app首次注册时的步骤控件
+
+![](https://github.com/open-android/GuideDialog/raw/master/gif/stepdialog.gif)
 
 ### sweet-alert-dialog
 

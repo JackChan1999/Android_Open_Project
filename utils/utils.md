@@ -1,3 +1,7 @@
+[SharedPreferencesUtils](https://github.com/open-android/SharedPreferencesUtils)
+
+Android SharedPreferences工具类。可以使用它简化对SharedPreferences数据的操作，同时它也支持链式调用，可以通过一行代码写入一条或多条数据。
+
 ## 拼音
 
 ### [pinyin4j](http://pinyin4j.sourceforge.net/)

@@ -6,10 +6,12 @@
 | AsyncHttpClient                          | 基于httpclient封装，已过时                       |
 | [OkHttp](https://github.com/square/okhttp) | Square出品，一个Http与Http/2的客户端               |
 | [Retrofit](https://github.com/square/retrofit) | Square出品，类型安全的Http客户端                    |
+| [RetrofitUtils](https://github.com/open-android/RetrofitUtils) | Retrofit网络工具类。 Retrofit与okhttp共同出自于Square公司，是目前市场上使用最多的联网框架,retrofit是对okhttp做了一层封装,不过封装之后的retrofit上手还是极其复杂,为了解决使用难度问题,本文推荐使用github开源项目RetrofitUtils. |
 | [Volley](https://android.googlesource.com/platform/frameworks/volley) | Google推出的Android异步网络请求框架和图片加载框架，使用的App有：网易新闻 |
 | HttpURLConnection                        | android原生api，省电省流量                       |
 | [NoHttp](https://github.com/yanzhenjie/NoHttp) | Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection，与RxJava完美结合，比Retrofit更简单易用。 |
 | [okhttputils](https://github.com/hongyangAndroid/okhttputils) | okhttp的辅助类                               |
+| [OkHttp3Utils](https://github.com/open-android/OkHttp3Utils) | OkHttp3.0封装框架，内部使用gson解析json数据           |
 | Mina                                     | Apache Mina是一个能够帮助用户开发高性能和高伸缩性网络应用程序的框架。它通过Java nio技术基于TCP/IP和UDP/IP协议提供了抽象的、事件驱动的、异步的API。 |
 | mars                                     | Mars 是微信官方的跨平台跨业务的终端基础组件。                |
 | Openfire                                 | Openfire 是实时的基于WEB的即时消息传输平台              |

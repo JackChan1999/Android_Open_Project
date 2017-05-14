@@ -3,6 +3,7 @@
 | 框架名称                                     | 功能描述                                     |
 | :--------------------------------------- | :--------------------------------------- |
 | [RxJava](https://github.com/ReactiveX/RxJava) | JVM上的响应式扩展                               |
+| [RxjavaUtils](https://github.com/open-android/RxjavaUtils) | Rxjava工具类，Rxjava快速封装实现的示例工程，包括变换的使用以及与Retrofit联用 |
 | [RxJavaJoins](https://github.com/ReactiveX/RxJavaJoins) | 为RxJava提供Joins操作                         |
 | [RxAndroid](https://github.com/ReactiveX/RxAndroid) | Android上的响应式扩展，在RxJava基础上添加了Android线程调度  |
 | [RxBinding](https://github.com/JakeWharton/RxBinding) | 提供用RxJava绑定Android UI的API                |
