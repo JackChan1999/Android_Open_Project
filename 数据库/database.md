@@ -11,3 +11,7 @@
 | [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) | 数据库加密                                    |
 | [storio](https://github.com/pushtorefresh/storio) | Beautiful API for SQLiteDatabase and ContentResolver |
 | [realm-java](https://github.com/realm/realm-java) | 高性能数据库，Realm is a mobile database: a replacement for SQLite & ORMs |
+
+**ActiveRecord**
+
+http://houzhe11.iteye.com/blog/494296
