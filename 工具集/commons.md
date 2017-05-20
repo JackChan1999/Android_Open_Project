@@ -8,8 +8,8 @@
 | [android-common](https://github.com/Trinea/android-common) | **主要包括**：**缓存**(图片缓存、预取缓存、网络缓存)、**公共View**(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)及**Android常用工具类**(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)。 |
 | [LiteCommon](https://github.com/litesuits/android-common) | LiteCommon是一系列通用类、辅助类、工具类的集合             |
 | [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) | 常用工具类                                    |
-|                                          |                                          |
-|                                          |                                          |
+| [easypermissions](https://github.com/googlesamples/easypermissions) | Easypermissions简化了Android M的运行时权限的申请、结果处理、判断等步骤。 |
+| [Genius-Android](https://github.com/qiujuer/Genius-Android/blob/master/README-ZH.md) | **Genius-Android** 是 **Android** 中一些常用的的方法集合, **Genius** 提供[6个基本板块](https://www.oschina.net/news/59597/genius-android-2-3-0) |
 |                                          |                                          |
 
 ## AndroidUtilCode

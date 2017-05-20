@@ -1,3 +1,9 @@
+## [android-iconify](https://github.com/JoanZapata/android-iconify)
+
+android-iconify 实现了在 Android 上集成 [FontAwesome](http://www.oschina.net/p/fontawesome) 图标字体。
+
+![](https://github.com/JoanZapata/android-iconify/raw/master/graphics/androids.png)
+
 ## [ShoppingCartAddSubtract](https://github.com/open-android/ShoppingCartAddSubtract)
 
 一种漂亮的UI控件，能更灵活的控制数字的增减 , 类似商城购物车加减控件
