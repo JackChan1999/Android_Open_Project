@@ -73,3 +73,17 @@ LiteCommon是一系列通用类、辅助类、工具类的集合，有以下特�
 - **3. 纯 纯 纯**：类间独立，单挑大梁，极少耦合，就是单纯！
 
 其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。
+
+## JsBridge
+
+[JsBridge](https://github.com/lzyzsd/JsBridge)
+
+[safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
+
+为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案 
+
+[BridgeWebView](https://github.com/open-android/BridgeWebView)
+
+H5和Android通信框架，让H5和Android相互调用更加简单。
+
+## 

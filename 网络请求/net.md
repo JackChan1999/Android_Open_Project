@@ -66,3 +66,26 @@ Apache Mina Server 是一个网络通信应用框架，也就是说，它主要�
 ## Mars 
 
 Mars 是微信官方的终端基础组件，是一个使用 C++ 编写的业务性无关、平台性无关的基础组件。目前已接入微信 Android、iOS、Mac、Windows、WP 等客户端。
+
+## 即时通讯
+
+- XMPP
+- smack
+- asmack
+- openfire
+- spark
+
+## 推送
+
+- 极光推送
+
+- 小米推送
+
+### [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)
+
+https://github.com/TooTallNate/Java-WebSocket
+
+http://tootallnate.github.io/Java-WebSocket/
+
+以前不管使用HTTP轮询或使用TCP长连接等方式制作在线聊天系统，都有天然缺陷，随着Html5的兴起，其中有一个新的协议WebSocket protocol，可实现浏览器与服务器全双工通信(full-duplex)，它可以做到：浏览器和服务器只需要做一个握手的动作，然后，浏览器和服务器之间就形成了一条快速通道。两者之间就直接可以数据互相传送。这个新的协议的特点正好适合这种在线即时通信。
+

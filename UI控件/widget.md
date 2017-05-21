@@ -1,3 +1,9 @@
+## [AndroidScrollingImageView](https://github.com/Q42/AndroidScrollingImageView)
+
+![](https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif)
+
+![](https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/sample_app.png)
+
 ## [android-iconify](https://github.com/JoanZapata/android-iconify)
 
 android-iconify 实现了在 Android 上集成 [FontAwesome](http://www.oschina.net/p/fontawesome) 图标字体。
