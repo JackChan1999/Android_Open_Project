@@ -65,3 +65,10 @@
 ## [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
 
 ![](https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png)
+
+## [EmphasisTextView](https://github.com/athkalia/EmphasisTextView)
+
+TextView高亮效果
+
+![](https://github.com/athkalia/EmphasisTextView/raw/master/art/screenshot.png)
+

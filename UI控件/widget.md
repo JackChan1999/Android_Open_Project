@@ -1,3 +1,17 @@
+## [ShowcaseView](https://github.com/amlcurran/ShowcaseView)
+
+新手引导界面
+
+![](http://upload-images.jianshu.io/upload_images/4037105-7ba9b12fbccb027d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
+
+![](https://camo.githubusercontent.com/169da1a6017dc2c13ffd4594cb53536e1c581ce2/68747470733a2f2f727562656e736f7573612e6769746875622e696f2f696d672f64756f6c696e676f5f7669657770616765722e676966)
+
+## [labelview](https://github.com/linger1216/labelview)
+
+<img src="https://github.com/linger1216/labelview/raw/master/img/img1.png" width="300" />
+
 ## Indicator
 
 ### [CircleIndicator](https://github.com/ongakuer/CircleIndicator)
