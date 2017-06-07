@@ -36,6 +36,7 @@ NoHttp使用：http://blog.csdn.net/column/details/nohttp.html
 | [Fastjson](https://github.com/alibaba/fastjson) | Java上一个快速的JSON解析器/生成器                    |
 | [HtmlPaser](https://sourceforge.net/projects/htmlparser/) | 一种用来解析单个独立html或嵌套html的方式                 |
 | [Jsoup](https://github.com/jhy/jsoup)    | 一个以最好的DOM，CSS和jQuery解析html的库             |
+| [jackson-core](https://github.com/FasterXML/jackson-core) | 一个 Java 用来处理 JSON 格式数据的类库，性能非常好。         |
 
 ## Java-WebSocket
 

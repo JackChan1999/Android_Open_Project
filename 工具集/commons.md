@@ -10,7 +10,25 @@
 | [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) | 常用工具类                                    |
 | [easypermissions](https://github.com/googlesamples/easypermissions) | Easypermissions简化了Android M的运行时权限的申请、结果处理、判断等步骤。 |
 | [Genius-Android](https://github.com/qiujuer/Genius-Android/blob/master/README-ZH.md) | **Genius-Android** 是 **Android** 中一些常用的的方法集合, **Genius** 提供[6个基本板块](https://www.oschina.net/news/59597/genius-android-2-3-0) |
-|                                          |                                          |
+| [Zip4j](http://www.lingala.net/zip4j/)   | Java处理zip压缩文件的完整解决方案                     |
+| [PrettyTime](https://github.com/ocpsoft/prettytime) | Java时间格式化开源类库，它能够将时间格式成易于用户阅读的格式，如"12分钟前"、"2天前"、"至今3个月"等。易于使用。完全可定制，可以创建属于自己TimeUnit和TimeFormat对象。能够与JSF框架集成使用。 |
+| [Cal4j](https://github.com/ical4j/ical4j) | Cal4j用于读写iCalendar数据流的一组API。iCalendar标准提供了一种公共的数据格式用于存储关于日历方面的信息比如事件，约定，待办事项等。所有流行日历工具比如：Lotus Notes，Outlook和Apple的iCal都支持iCalendar标准。 |
+| [Apache Tika](http://tika.apache.org/)   | Tika是一个内容分析工具，自带全面的parser工具类，能解析基本所有常见格式的文件，得到文件的metadata，content等内容，返回格式化信息。总的来说可以作为一个通用的解析工具。特别对于搜索引擎的数据抓去和处理步骤有重要意义。 |
+| [gnu-crypto](http://www.gnu.org/software/gnu-crypto/) | 加密工具                                     |
+| java-unrar                               | de.innosystec.unrar解压缩rar文件              |
+| [android-priority-jobqueue](https://github.com/path/android-priority-jobqueue) | 一款专门为Android平台编写，实现了[Job Queue](http://en.wikipedia.org/wiki/Job_queue)的后台任务队列类库，能够轻松的在后台执行定时任务，提高用户体验和应用的稳定性。 |
+| JOOR                                     | 利用JOOR简单编写java的反射                        |
+| [JAudiotagger](http://www.jthink.net/jaudiotagger/) | 提供一个Java类库用于编辑音频文件的tag信息(如ID3)，是jid3lib的扩展，比jlid3lib强大更多，支持更多格式。 |
+| [jChardet](http://jchardet.sourceforge.net/) | 自动字符集探测算法，jchardet是firefox使用的字节流编码检测算法 的java开源实现， 检测文本文件(字节流)的编码方式 |
+| [mupdf](https://mupdf.com/index.html)    | MuPDF is a lightweight PDF, XPS, and E-book viewer. |
+
+protobuf-javame，net.jarlehansen.protobuf.javame
+
+[nanohttpd](https://github.com/NanoHttpd/nanohttpd) 一个免费、轻量级的(只有一个Java文件) HTTP服务器,可以很好地嵌入到Java程序中
+
+Open Chinese Convert（OpenCC）是一个开源的中文简繁转换项目，致力于制作高质量的基于统计预料的简繁转换词库。还提供函数库(libopencc)、命令行简繁转换工具、人工校对工具、词典生成程序、在线转换服务及图形用户界面。
+
+[jutf7](https://github.com/k9mail/jutf7)：Java UTF-7 Charset support (copy of [http://sourceforge.net/projects/jutf7/](http://sourceforge.net/projects/jutf7/))
 
 ## AndroidUtilCode
 

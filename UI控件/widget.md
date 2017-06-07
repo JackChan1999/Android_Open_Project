@@ -1,3 +1,19 @@
+## Indicator
+
+### [CircleIndicator](https://github.com/ongakuer/CircleIndicator)
+
+![](https://github.com/ongakuer/CircleIndicator/raw/master/screenshot.gif)
+
+### viewpagerindicator
+
+### MagicIndicator
+A powerful, customizable and extensible ViewPager indicator framework. As the best alternative of ViewPagerIndicator, TabLayout and PagerSlidingTabStrip —— 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等）
+
+
+<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="250" height="444" />
+
+[MagicIndicator系列之三 —— MagicIndicator原理浅析及扩展MagicIndicator的4种方式](http://www.jianshu.com/p/f3022211821c)
+
 ## [AndroidScrollingImageView](https://github.com/Q42/AndroidScrollingImageView)
 
 ![](https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif)
@@ -189,6 +205,10 @@ https://github.com/prolificinteractive/material-calendarview
 
 ## Picker
 
+### [datetimepicker](https://github.com/flavienlaurent/datetimepicker)
+
+![](https://camo.githubusercontent.com/493edeea3eb553ad0d0b121dbead0d7ec6a858f2/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f6461746574696d657069636b65722f6d61737465722f67726170686963732f696d67312e706e67)
+
 ### [CityPickerWebView](https://github.com/open-android/CityPickerWebView)
 
 省市县三级联动，JS实现
@@ -222,8 +242,6 @@ Android滚轮选择控件 , 包含3D 效果， 滑动流畅无比
 仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果
 
 ![Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView/raw/master/preview/pickerdemo_zhangshangshenghuo.gif)
-
-## viewpagerindicator
 
 ## [FlowLayout 流式布局](https://github.com/hongyangAndroid/FlowLayout)
 
@@ -461,15 +479,6 @@ CommonTabLayout:不同于SlidingTabLayout对ViewPager依赖,它是一个不依�
 模仿饿了么详情页可以跟随手指移动 viewpager变详情页
 
 ![](https://github.com/githubwing/ZoomHeader/raw/master/img.gif)
-
-## MagicIndicator
-A powerful, customizable and extensible ViewPager indicator framework. As the best alternative of ViewPagerIndicator, TabLayout and PagerSlidingTabStrip —— 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等）
-
-
-<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="250" height="444" />
-
-
-[MagicIndicator系列之三 —— MagicIndicator原理浅析及扩展MagicIndicator的4种方式](http://www.jianshu.com/p/f3022211821c)
 
 ##[流程指示器](https://github.com/baoyachi/StepView)
 [一步步教你写StepView（流程指示器）](http://www.jianshu.com/p/df03c1276121)

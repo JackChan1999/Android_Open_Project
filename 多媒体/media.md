@@ -10,6 +10,8 @@
 | 百度媒体云                                    | 基于百度视频处理、人脸识别、语音等技术媒体相关的整体解决方案           |
 | [ExoPlayer](https://github.com/google/ExoPlayer) | Google开源的视频播放器                           |
 | [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) | Google官方给出的m音乐播放器，支持Android phones, tablets, Auto, Wear and Cast devices |
+| [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) | 七牛根据ijkplayer二次开发的，定制简单。PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。 |
+| [JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer) | 立志成为Android平台使用最广泛的视频播放控件                |
 
 ## **KSYStreamer_Android**
 

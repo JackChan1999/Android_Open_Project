@@ -40,6 +40,67 @@ Jake大神喜欢以刀命名自己的项目，可能他觉得这能很好的表�
 
 - 通过setChromeColor，setChromeShadowColor可自定义线框图的颜色，随你喜欢。
 
+## Google开源项目
+
+| 项目名称                                     | 功能描述                                     |
+| :--------------------------------------- | :--------------------------------------- |
+| [GCM](https://github.com/google/gcm)     | Google Cloud Messaging 消息推送              |
+| [ iosched](https://github.com/google/iosched) | Google I/O Android App                   |
+| [android-topeka](https://github.com/googlesamples/android-topeka) | Google官方给出的material design应用指南           |
+| [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) | Google官方给出的m音乐播放器，支持Android phones, tablets, Auto, Wear and Cast devices |
+| [ExoPlayer](https://github.com/google/ExoPlayer) | An extensible media player for Android   |
+| [guava](https://github.com/google/guava) | Google Core Libraries for Java 6+        |
+| [flexbox-layout](https://github.com/google/flexbox-layout) | FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android. |
+| [guice](https://github.com/google/guice) | 轻量级的依赖注入框架                               |
+| [gson](https://github.com/google/gson)   | A Java serialization/deserialization library that can convert Java Objects into JSON and back. |
+| [protobuf](https://github.com/google/protobuf) | Protocol Buffers - Google's data interchange format |
+| [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google          |
+| [auto](https://github.com/google/auto)   | Auto 是 Java 生成器源代码集合，包括：AutoFactory - 兼容 JSR-330 的工厂；AutoService - ServiceLoader 的 Provider-configuration 文件；AutoValue - Java 1.6+ 的不可变 value-type 代码生成；Common - Helper 实用工具，用来编写注释处理器 |
+| [android-architecture](https://github.com/googlesamples/android-architecture) | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps |
+| [hover](https://github.com/google/hover) | A floating menu library for Android      |
+| GMS                                      | Google服务，play-services                   |
+
+### Google服务
+
+以前无论使用何种Google Play服务，都是直接在gradle文件中引用一个库。
+
+```gradle
+compile 'com.google.android.gms:play-services:9.4.0'
+```
+
+这直接导致放法数超过了65535，后来发现从6.5版本以后是可以按需引用的，如下：
+
+```gradle
+compile 'com.google.android.gms:play-services-ads:9.4.0'
+compile 'com.google.android.gms:play-services-auth:9.4.0'
+compile 'com.google.android.gms:play-services-gcm:9.4.0'
+```
+
+第一个是广告库，第二个是使用Google账号登陆用的授权库，第三个是Google Cloud相关库。这样应用程序会瘦身很多。
+
+App Indexing，web2app，技术原理是通过在html page中添加特定的link标签和在对应的app manifest文件中添加intent filter来完成网页内容到app的映射。
+
+com.google.android.gms:play-services-appindexing:8.4.0
+
+```java
+/**
+  * ATTENTION: This was auto-generated to implement the App Indexing API.
+  * See https://g.co/AppIndexing/AndroidStudio for more information.
+  */
+GoogleApiClient client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+```
+
+com.google.auto.service:auto-service:1.0-rc2 注册注解处理器，可以自动生成 METAINF/
+services/javax.annotation.processing.Processor 文件
+
+## Facebook
+
+| 项目名称         | 功能描述                                     |
+| :----------- | :--------------------------------------- |
+| react-native | A framework for building native apps with React |
+| fresco       | 最好的图片处理框架，没有之一                           |
+| rebound      | 动画库                                      |
+
 ## 阿里巴巴
 
 | 项目名称                                     | 功能描述                                     |
@@ -60,29 +121,29 @@ Jake大神喜欢以刀命名自己的项目，可能他觉得这能很好的表�
 | [FileExplorer](https://github.com/MiCode/FileExplorer) | MIUI文件管理器社区开源版 |
 | [SoundRecorder](https://github.com/MiCode/SoundRecorder) | MIUI录音机社区开源版   |
 
-## Google开源项目
+## Tencent
 
-| 项目名称                                     | 功能描述                                     |
+| 开源库/框架/项目                                | 说明                       |
+| :--------------------------------------- | :----------------------- |
+| [Mars](https://github.com/Tencent/mars)  | Mars 是微信官方的跨平台跨业务的终端基础组件 |
+| [Tinker](https://github.com/Tencent/tinker) | hotfix热修复框架              |
+
+## 锤子科技
+
+| 开源库/框架/项目                                | 说明                   |
+| :--------------------------------------- | :------------------- |
+| [One Step & Big Bang](https://github.com/SmartisanTech/android) | 锤子科技的一小步，智能手机进化的一大步。 |
+
+One Step：通过拖拽完成将信息发送至应用或联系人的动作，节省了在不同应用之间切换的诸多步骤，第一次打通了手持设备中应用间的边界。
+
+Big Bang：用拇指大面积按压屏幕中的文字，Big Bang 会将你按住的那一段文字全部“炸”开并且按照语义智能拆分成易于选取的独立的字和词，由你随心所欲地选择，并可直接搜索、分享和复制。Big Bang 开创性地解决了在手机这样的小屏幕上难于处理文字的弊端
+
+## bilibili
+
+| 开源库/框架/项目                                | 说明                                       |
 | :--------------------------------------- | :--------------------------------------- |
-| [GCM](https://github.com/google/gcm)     | Google Cloud Messaging 消息推送              |
-| [ iosched](https://github.com/google/iosched) | Google I/O Android App                   |
-| [android-topeka](https://github.com/googlesamples/android-topeka) | Google官方给出的material design应用指南           |
-| [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) | Google官方给出的m音乐播放器，支持Android phones, tablets, Auto, Wear and Cast devices |
-| [ExoPlayer](https://github.com/google/ExoPlayer) | An extensible media player for Android   |
-| [guava](https://github.com/google/guava) | Google Core Libraries for Java 6+        |
-| [flexbox-layout](https://github.com/google/flexbox-layout) | FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android. |
-| [guice](https://github.com/google/guice) | 轻量级的依赖注入框架                               |
-| [gson](https://github.com/google/gson)   | A Java serialization/deserialization library that can convert Java Objects into JSON and back. |
-| [protobuf](https://github.com/google/protobuf) | Protocol Buffers - Google's data interchange format |
-| [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google          |
-| [auto](https://github.com/google/auto)   | Auto 是 Java 生成器源代码集合，包括：AutoFactory - 兼容 JSR-330 的工厂；AutoService - ServiceLoader 的 Provider-configuration 文件；AutoValue - Java 1.6+ 的不可变 value-type 代码生成；Common - Helper 实用工具，用来编写注释处理器 |
-| [android-architecture](https://github.com/googlesamples/android-architecture) | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps |
-| [hover](https://github.com/google/hover) | A floating menu library for Android      |
-
-## Facebook
-
-| 项目名称         | 功能描述                                     |
-| :----------- | :--------------------------------------- |
-| react-native | A framework for building native apps with React |
-| fresco       | 最好的图片处理框架，没有之一                           |
-| rebound      | 动画库                                      |
+| [ijkplayer](https://github.com/Bilibili/ijkplayer) | Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support. |
+| [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) | Android开源弹幕引擎·烈焰弹幕使                      |
+| [boxing](https://github.com/Bilibili/boxing) | Android multi-media selector based on MVP mode. |
+| [MagicaSakura](https://github.com/Bilibili/MagicaSakura) | MagicaSakura 是 Android 多主题框架             |
+| [BiliShare](https://github.com/Bilibili/BiliShare) | 支持分享到微博、QQ聊天、QQ空间、微信聊天、微信朋友圈，系统分享等。      |

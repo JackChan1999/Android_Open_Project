@@ -55,6 +55,8 @@ JakeWharton写的一个App,针对多个库的综合应用：Dagger、ButterKnife
 
 [StartupNews](https://github.com/halzhang/StartupNews)
 
+[FBReader](https://github.com/geometer/FBReader)
+
 ## [GitHub 上都有哪些值得关注学习的 Android项目？](https://www.zhihu.com/question/23804819)
 
 ## [android-best-practices](https://github.com/futurice/android-best-practices)
