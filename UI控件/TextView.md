@@ -72,3 +72,6 @@ TextView高亮效果
 
 ![](https://github.com/athkalia/EmphasisTextView/raw/master/art/screenshot.png)
 
+## [BabushkaText](https://github.com/quiqueqs/BabushkaText)
+
+![](https://github.com/quiqueqs/BabushkaText/raw/master/images/example.png)

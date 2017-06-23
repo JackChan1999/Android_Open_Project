@@ -120,6 +120,12 @@ android-iconify 实现了在 Android 上集成 [FontAwesome](http://www.oschina.
 
 ## 下拉刷新
 
+### [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)
+
+支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持RecyclerView,AbsListView,ScrollView,WebView
+
+TwinklingRefreshLayout延伸了Google的SwipeRefreshLayout的思想,不在列表控件上动刀,而是使用一个ViewGroup来包含列表控件,以保持其较低的耦合性和较高的通用性
+
 ### com.handmark.pulltorefresh.library 下拉刷新
 
 使用的App有：薄荷，网易新闻

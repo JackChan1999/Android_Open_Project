@@ -11,6 +11,7 @@
 | [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) | 数据库加密                                    |
 | [storio](https://github.com/pushtorefresh/storio) | Beautiful API for SQLiteDatabase and ContentResolver |
 | [realm-java](https://github.com/realm/realm-java) | 高性能数据库，Realm is a mobile database: a replacement for SQLite & ORMs |
+| [android-lite-orm](https://github.com/litesuits/android-lite-orm) | LiteOrm是一个小巧、强大、比系统自带数据库操作性能快1倍的 android ORM 框架类库，开发者一行代码实现数据库的增删改查操作，以及实体关系的持久化和自动映射。 |
 
 **ActiveRecord**
 
