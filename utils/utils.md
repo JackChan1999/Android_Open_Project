@@ -1,3 +1,11 @@
+## [gtop](https://github.com/aksakalli/gtop)
+
+这个工具可以直接在终端实时监控你电脑的进程、CPU、内存等信息，而且自动匹配你终端的主题
+
+## [learn-regex](https://github.com/zeeshanu/learn-regex)
+
+> 相信大家对正则表达式都不陌生，这玩意很不友好，甚至我都觉得有些反人性，但是实际开发过程中又离不开他，很多情景使用正则能很方便的解决问题，比如验证手机号、邮箱等，所以，正则虽然很烦，但是又不得不去学习使用它，那么这就是一个学习正则的开源项目，由浅入深，很容易入手，而且教程有中文版，建议对正则较陌生的同学关注下这个项目。（By 薄荷科技 张帅 stormzhang）
+
 [SharedPreferencesUtils](https://github.com/open-android/SharedPreferencesUtils)
 
 Android SharedPreferences工具类。可以使用它简化对SharedPreferences数据的操作，同时它也支持链式调用，可以通过一行代码写入一条或多条数据。

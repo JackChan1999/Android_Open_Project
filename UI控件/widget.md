@@ -120,6 +120,14 @@ android-iconify 实现了在 Android 上集成 [FontAwesome](http://www.oschina.
 
 ## 下拉刷新
 
+### [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+
+Android智能下拉刷新框架，支持越界回弹，集成了几十种炫酷的Header和 Footer。
+
+| 掉落盒子                                     | 弹出圆圈                                     | 效果图                                      |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_Dropbox.gif) | ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_Circle.gif) | ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif) |
+
 ### [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)
 
 支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持RecyclerView,AbsListView,ScrollView,WebView
