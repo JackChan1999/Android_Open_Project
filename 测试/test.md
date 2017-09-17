@@ -16,6 +16,7 @@
 | [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) | 快速的Android UI自动化测试                       |
 | [UI Automator](https://google.github.io/android-testing-support-library/docs/uiautomator/index.html) | 自动化测试                                    |
 | [Hamcrest](https://github.com/hamcrest)  |                                          |
+| [error-prone](https://github.com/google/error-prone) | Google出品的Java和Android Bug分析利器            |
 Android自带很多测试工具：JUnit，Monkeyrunner，UiAutomator，Espresso等，Monkey自动化压力测试，Robotium，Appium
 
 ## **调试框架**

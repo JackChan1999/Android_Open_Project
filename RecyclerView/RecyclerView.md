@@ -27,3 +27,9 @@ RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
 https://github.com/CameloeAnthony/Learning-RecyclerView
 
 a collection repository for repositories about recyclerView（RecyclerView大集合）
+
+## [MultiType](https://github.com/drakeet/MultiType)
+
+An Android library to create multiple item types list views easily and flexibly
+
+## [Effective-MultiType](https://github.com/drakeet/Effective-MultiType)
