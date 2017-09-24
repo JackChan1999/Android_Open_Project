@@ -33,3 +33,7 @@ a collection repository for repositories about recyclerView（RecyclerView大集
 An Android library to create multiple item types list views easily and flexibly
 
 ## [Effective-MultiType](https://github.com/drakeet/Effective-MultiType)
+
+## [realm-recyclerview](https://github.com/thorbenprimke/realm-recyclerview)
+
+A RecyclerView that is powered by Realm and lots more
