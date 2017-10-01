@@ -6,6 +6,8 @@ Apache Beam 是Google 开源的一个统一编程框架，它本身不是一个�
 - Beam SDK，支持 Java 和 Python
 - 一系列Runner（可以理解为“适配器”吧），让其编程模型运行在不同底层处理引擎（Google Cloud Dataflow，Spark，Flink等）
 
+[Jude95 Beam MVP快速开发框架](https://github.com/Jude95/Beam)
+
 ## [gtop](https://github.com/aksakalli/gtop)
 
 这个工具可以直接在终端实时监控你电脑的进程、CPU、内存等信息，而且自动匹配你终端的主题
