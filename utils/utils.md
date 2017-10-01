@@ -6,7 +6,15 @@ Apache Beam 是Google 开源的一个统一编程框架，它本身不是一个�
 - Beam SDK，支持 Java 和 Python
 - 一系列Runner（可以理解为“适配器”吧），让其编程模型运行在不同底层处理引擎（Google Cloud Dataflow，Spark，Flink等）
 
-[Jude95 Beam MVP快速开发框架](https://github.com/Jude95/Beam)
+## MVP快速开发框架
+
+- [Jude95 Beam ](https://github.com/Jude95/Beam)
+
+  一套基于MVP模式的快速开发框架。定义了一套开发规范。并提供了基于这套规范的Activity，Fragment，Presenter，Model等父类及控件和API等，完成APP开发过程中大量繁琐工作。
+
+- [nucleus](https://github.com/konmik/nucleus)
+
+  Nucleus is an Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
 
 ## [gtop](https://github.com/aksakalli/gtop)
 
